@@ -116,6 +116,7 @@ body {
   padding-bottom: 100px;
 }
 .greetings__title {
+  text-align: center;
   font-size: 80px;
   font-weight: 400;
   padding-bottom: 30px;
